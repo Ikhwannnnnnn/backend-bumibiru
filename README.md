@@ -21,10 +21,10 @@ BumiBiru Adalah sebuah platform yang digunakan untuk melihat kejadian kejadian k
 <a href="https://leafletjs.com/"><img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="120" height="70"> </a>
 <a href="https://react-redux.js.org/"><img src="https://react-redux.js.org/img/redux_white.svg" alt="React Redux" width="70" height="70"> </a>
 
-## Repository API & Back-End GuruCoding 
+## Repository API & Back-End BumiBiru 
 
 <a href='https://github.com/Ikhwannnnnnn/bumibiru' target='_blank' rel='noreferrer'>
-Repository Back-End GuruCoding 
+Repository Back-End BumiBiru
 </a>
 
 ## Website
